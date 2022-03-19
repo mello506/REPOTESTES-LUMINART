@@ -1,10 +1,19 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/f06WLSF/segunda.png",[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
+<item>
+<title>[B][COLOR white]TESTE (DATA)[/COLOR][/B]</title>
 
-#EXTINF:-1,1. herculoides 01
-https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Os.Herculoides/HD/LS-T01E01.mp4
-#EXTINF:-1,1. herculoides 02
-https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Os.Herculoides/HD/LS-T01E02.mp4
-#EXTINF:-1,1. herculoides 3
-https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Os.Herculoides/HD/LS-T01E03.mp4
+<link>plugin://plugin.video.youtube/play/?video_id=<LINKTRAILER>$$lsname=[COLOR orange][B]TRAILER[COLOR yellow] -> [COLOR white]NOMEDOFILME[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - HD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.elementum/play?uri=<LINKMAGANETPARAOFILME>$$lsname=[COLOR orange][B]TORRENT[COLOR yellow] -> [COLOR white]NOMEDOFILME - FHD DUAL[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://dood.so/d/bavxd8azdbs2$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]JOEL - DUB - LEGFIX[/B][/COLOR]</link>
+
+<link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://luminart.ls.lsnew.workers.dev/0:/DSNHS/Formiga.Tamandua/LS-T01E01.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]FORMIGA - DUB - LEGFIX[/B][/COLOR]</link>
+
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
