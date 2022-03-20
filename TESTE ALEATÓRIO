@@ -1,4 +1,36 @@
 <item>
+<title>[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white][B]<NOMEDASERIE>[/B][/COLOR]</title>
+<link>plugin://plugin.video.resolvedor/?action=play&amp;url=<LINKDOARQUIVO></link>
+<thumbnail><ICONE></thumbnail>		
+<fanart><FUNDO></fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>		
+</item>
+
+<item>
+<title>[COLOR orange][B]LS-T01E01[COLOR yellow] -> [COLOR white][B]<NOMEDOEPISODIO>[/B][/COLOR]</title>
+<link>plugin://plugin.video.resolvedor/?action=play&amp;url=<LINKDOARQUIVO></link>
+<thumbnail><ICONE></thumbnail>		
+<fanart><FUNDO></fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>		
+</item>
+
+<item>
+<title>[COLOR orange][B]LS-T01E02[COLOR yellow] -> [COLOR white][B]<NOMEDOEPISODIO>[/B][/COLOR]</title>
+<link>plugin://plugin.video.resolvedor/?action=play&amp;url=<LINKDOARQUIVO></link>
+<thumbnail><ICONE></thumbnail>		
+<fanart><FUNDO></fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>		
+</item>
+
+<item>
+<title>[COLOR orange][B]LS-T01E03[COLOR yellow] -> [COLOR white][B]<NOMEDOEPISODIO>[/B][/COLOR]</title>
+<link>plugin://plugin.video.resolvedor/?action=play&amp;url=<LINKDOARQUIVO></link>
+<thumbnail><ICONE></thumbnail>		
+<fanart><FUNDO></fanart>		
+<info>FAÇA SUA ESCOLHA E DIVIRTA-SE</info>		
+</item>
+
+<item>
 <title>[COLOR orange][B]SERVER ALT[COLOR yellow] -> [COLOR white][B]Manimal[/B][/COLOR]</title>
 <link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://dood.so/d/dpd4hdb1dq7p</link>
 </item>
