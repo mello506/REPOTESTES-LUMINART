@@ -1,13 +1,3 @@
-<item>
-<title>[B][COLOR white]TESTE com g drive(DATA)[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://dood.so/d/g0kam7mm6wb8$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]SPINOZA - DUB - LEGFIX[/B][/COLOR]</link>
-<link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://dood.so/d/bavxd8azdbs2$nome=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]JOEL - DUB - LEGFIX[/B][/COLOR]</link>
-<thumbnail>ICONE</thumbnail>
-<fanart>FUNDO</fanart>
-<info>SINOPSE</info>
-<genre>GENERO</genre>
-</item>
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B][COLOR white]TESTE joel(DATA)[/COLOR][/B]</title>
@@ -51,7 +41,19 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <item>
 <title>[B][COLOR white]TESTE drive(DATA)[/COLOR][/B]</title>
-<link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://luminart.ls.lsnew.workers.dev/0:/NOST/SRS/Agente.86/T01/LS-T01E01.mp4</link>
+<link>plugin://plugin.video.resolvedor/?action=play&amp;url=https://s11.pandafiles.com:183/d/7i3roaoo26dccyapkgf3ky4cha23aaxm7lajj2uqczgsozensvhjd2y2htyuiq4ze7aqw2a7/video.mp4</link>
+<thumbnail>ICONE</thumbnail>
+<fanart>FUNDO</fanart>
+<info>SINOPSE</info>
+<genre>GENERO</genre>
+</item>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+<item>
+<title>[B][COLOR white]TESTE avi-mkv no drive [/COLOR][/B]</title>
+
+<link>https://luminart.ls.lsnew.workers.dev/0:/22-O%20Incrivel%20Hulk%20Fuga%20de%20Los%20Santos.mkv$$lsname=[COLOR orange][B]SERVER LS[COLOR yellow] -> [COLOR white]hulk[/B][/COLOR]</link>
+
 <thumbnail>ICONE</thumbnail>
 <fanart>FUNDO</fanart>
 <info>SINOPSE</info>
