@@ -2,11 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bBQKKZg/TVs24hrs-SERVER1.png",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="LOGO SERVER ALT",[COLOR orange][B]MANIMAL[/B][/COLOR]
+#EXTINF:-1 tvg-logo="LOGO SERVER ALT",[COLOR orange][B]MANIMAL2[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pqrc5EJIxL01PiUFilNKLpDUwfO.jpg",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]TRAILER[/B][/COLOR] 
-<link>plugin://plugin.video.youtube/play/?video_id=rj-JKfEu12k
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/pqrc5EJIxL01PiUFilNKLpDUwfO.jpg",[COLOR orange][B]T01E01[COLOR yellow] -> [COLOR white]Manimal[/B][/COLOR] 
-plugin://plugin.video.resolvedor/?action=play&amp;url=https://dood.so/d/bavxd8azdbs2
+plugin://plugin.video.resolvedor/?action=play&amp;url=https://dood.so/d/dpd4hdb1dq7p
