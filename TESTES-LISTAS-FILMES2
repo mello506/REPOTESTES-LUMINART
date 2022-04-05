@@ -1,22 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.ibb.co/ThfP8Pb/filmes-SERV4.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black] .[/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/m3zGn5EOqvb1CxSnkprn6K0SiV3_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Comedia[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]#NUDES[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/m3zGn5EOqvb1CxSnkprn6K0SiV3_big.jpg" group-title="Filmes | Comedia",#NUDES
 http://b5.vc:80/movie/edigar/102030/42508.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/wUXT3KEh6vjDzwYKiYWwdJNfZOW_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Comedia[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]#REALITYHIGH[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/wUXT3KEh6vjDzwYKiYWwdJNfZOW_big.jpg" group-title="Filmes | Comedia",#REALITYHIGH
 http://b5.vc:80/movie/edigar/102030/30440.mp4
-#EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/9856c649e11d4e63b064816be9953c0a.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Terror[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]#SemSaída[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/9856c649e11d4e63b064816be9953c0a.jpg" group-title="Filmes | Terror",#SemSaída
 http://b5.vc:80/movie/edigar/102030/111604.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geqLzzDs1w08qojyFOD8eqlXFwz.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Terror[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white](In) Seguros[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geqLzzDs1w08qojyFOD8eqlXFwz.jpg" group-title="Filmes | Terror",(In) Seguros
 http://b5.vc:80/movie/edigar/102030/130225.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geqLzzDs1w08qojyFOD8eqlXFwz.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Legendados[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white](In) Seguros [L][/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/geqLzzDs1w08qojyFOD8eqlXFwz.jpg" group-title="Filmes | Legendados",(In) Seguros [L]
 http://b5.vc:80/movie/edigar/102030/130219.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/tMUnCAgfARTdAu8ylPw4Wjh3e5N_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Acao[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]+Velozes +Furiosos[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/tMUnCAgfARTdAu8ylPw4Wjh3e5N_big.jpg" group-title="Filmes | Acao",+Velozes +Furiosos
 http://b5.vc:80/movie/edigar/102030/99807.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/uNIftCPj25RDVq5yfhBhiyFaf6M_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Faroeste[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]...E o Bravo Ficou Só[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/uNIftCPj25RDVq5yfhBhiyFaf6M_big.jpg" group-title="Filmes | Faroeste",...E o Bravo Ficou Só
 http://b5.vc:80/movie/edigar/102030/91413.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zH8xv4ooT84btWerL1A06jZNOEN_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Drama[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]...E o Vento Levou[/B][/COLOR]
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zH8xv4ooT84btWerL1A06jZNOEN_big.jpg" group-title="Filmes | Drama",...E o Vento Levou
 http://b5.vc:80/movie/edigar/102030/76919.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/a3Uub7CVKatqDOaNG9tsJs7ldYa_big.jpg" group-title="[COLOR orange][B]Filmes [COLOR yellow]->[COLOR white] Acao[/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]007 -  Um Novo Dia Para Morrer[/B][/COLOR]
-http://b5.vc:80/movie/edigar/102030/94140.mp4
